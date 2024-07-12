@@ -1,0 +1,10 @@
+[
+    {
+        "city": "Kampala",
+        "temperature": 21.66,
+        "weather": "light rain",
+        "humidity": 74,
+        "pressure": 1015,
+        "wind_speed": 1.7
+    }
+]
